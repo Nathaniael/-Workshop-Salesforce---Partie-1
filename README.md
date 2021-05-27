@@ -3,9 +3,7 @@
 ## Inscription
 Pour commencer, il vous est nécéssaire de créer un compte sur Salesforce en ce rendant sur le lien suivant, et en cliquant sur le bouton _ESSAI GRATUIT_: https://www.salesforce.com/fr/
 
-Ci-dessous quelques définitions qui vous permettront de comprendre certaines notions.
-Pour l'instant il faut se concentrer sur ces modules :
-Définitions :
+## Définitions :
 - Compte : Une entreprise
 - Contact : Une personne physique qui peut être rattachée à un Compte
 - Affaire : Une opportunité de vente rattachée à la fois à un Contact et à un Compte
