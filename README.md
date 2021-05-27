@@ -16,6 +16,13 @@ Dans ce workshop, vous serez l'admin Salesforce d'une entreprise, qui souhaite s
 Vous devrez suivre une suite d'instruction, que vous accomplirez grâce à vos recherches. Pensez à utiliser le vocabulaire donnez, cela permettra de trouver
 des réponses plus facilement ;)
 
+## Quelques définitions
+Voici quelques définitions qui vous permettront de mieux appréhender les instructions:
+Définitions :
+- Compte : Une entreprise
+- Contact : Une personne physique qui peut être rattachée à un Compte
+- Opportunité : Potentielle vente rattachée à la fois à un Contact et à un Compte
+
 ## Instructions
 1. Rajouter l'onglet Comptes dans l'application Marketing, pour se faire suivez le chemin suivant: 
 Engrenage en haut à droite de votre écran -> Configuration -> Applications -> Gestionnaire des applications -> dans la liste trouvez Marketing,
@@ -23,12 +30,12 @@ puis cliquez sur modifier. Vous pourrez désormais ajouter les Comptes.
 
 1. Rajouter deux champs _Relation de recherche_ Contact et Compte dans l'objet Opportunité. Cela permet de lié une Opportunité à un Contact, ainsi qu'un compte.
 
-1. Rajouter un champ Statut à la fois sur Compte et sur Contact qui a 2 valeurs possibles : Prospect et Client. Prospect doit être la valeur par défaut.
+2. Rajouter un champ Statut à la fois sur Compte et sur Contact qui a 2 valeurs possibles : Prospect et Client. Prospect doit être la valeur par défaut.
 
-2. Faire en sorte que lorsqu'une Opportunité est gagnée ("Closed Won"), le Compte et le Contact passe de Prospect à Client.
+3. Faire en sorte que lorsqu'une Opportunité est gagnée ("Closed Won"), le Compte et le Contact passe de Prospect à Client.
 (workflow et mise à jour de champ).
 
-3. Faire en sorte que lorsque l'on crée un Contact rattaché à un Compte, le Contact prenne le statut du Compte (Prospect ou Client).
+4. Faire en sorte que lorsque l'on crée un Contact rattaché à un Compte, le Contact prenne le statut du Compte (Prospect ou Client).
 (workflow et fonction)
 
-4. Faire en sorte que lorsqu'un Compte passe de Prospect à Client, tous les Contacts rattachés passent également à Client.
+5. Faire en sorte que lorsqu'un Compte passe de Prospect à Client, tous les Contacts rattachés passent également à Client.
