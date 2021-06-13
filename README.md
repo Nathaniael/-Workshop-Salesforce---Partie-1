@@ -3,7 +3,7 @@
 ## Inscription
 Pour commencer, il vous est nécéssaire de créer un compte sur Trailhead en ce rendant sur le lien suivant : https://trailhead.salesforce.com/fr/home
 
-Trailhead est un outil gratuit permettant de s'exercer sur Salesforce, grâce à un playground.
+Trailhead est un outil gratuit permettant de s'exercer sur Salesforce, grâce à un playground (air de jeu).
 
 Pour commencer l'expérience, vous devez vous rendre sur l'icône de votre profil, en haut à droite de la page -> organisation d'exercice -> Créer un Trailhead Playground. Vous pouvez donner un nom à votre Playground, celui-ci n'aura aucun impact pour la suite.
 
@@ -22,6 +22,8 @@ Définitions :
 - Compte : Une entreprise
 - Contact : Une personne physique qui peut être rattachée à un Compte
 - Opportunité : Potentielle vente rattachée à la fois à un Contact et à un Compte
+
+PS: après chaque 
 
 ## Instructions
 1. Rajouter l'onglet Comptes dans l'application Marketing, pour se faire suivez le chemin suivant: 
