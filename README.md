@@ -28,7 +28,7 @@ PS: après chaque
 ## Instructions
 1. Rajouter l'onglet Comptes dans l'application Marketing, pour se faire suivez le chemin suivant: 
 Engrenage en haut à droite de votre écran -> Configuration -> Applications -> Gestionnaire des applications -> dans la liste trouvez Marketing,
-puis cliquez sur modifier. Vous pourrez désormais ajouter les Comptes.
+puis cliquez sur modifier. Vous pourrez désormais ajouter les Comptes. Vous devriez normalement voir apparaitre la catégorie compte dans l'application marketing (voir: )
 
 1. Rajouter deux champs _Relation de recherche_ Contact et Compte dans l'objet Opportunité. Cela permet de lié une Opportunité à un Contact, ainsi qu'un compte.
 
