@@ -28,15 +28,15 @@ PS: après chaque instruction, vous pourrez retrouver une capture d'écran, ains
 ## Instructions
 1. Rajouter l'onglet Comptes dans l'application Marketing, pour se faire suivez le chemin suivant: 
 Engrenage en haut à droite de votre écran -> Configuration -> Applications -> Gestionnaire des applications -> dans la liste trouvez Marketing,
-puis cliquez sur modifier. Vous pourrez désormais ajouter les Comptes. Vous devriez normalement voir apparaitre la catégorie "Comptes" dans l'application marketing
-[exo1](https://github.com/Nathaniael/salesforcep1/blob/main/exo1.png)
+puis cliquez sur modifier. Vous pourrez désormais ajouter les Comptes. Vous devriez normalement voir apparaitre la catégorie "Comptes" dans l'application marketing.
+[Résultat attendu](https://github.com/Nathaniael/salesforcep1/blob/main/exo1.png)
 
 2. Rajouter deux champs _Relation de recherche_ Contact et Compte dans l'objet Opportunité. Cela permet de lié une Opportunité à un Contact, ainsi qu'à un compte.
 En vous rendant dans la catégorie "Opportunités", et en appuyant sur "Nouveau" vous pourrez constatez que vous pouvez désormais ajouter un Contact ainsi qu'un Compte.
-[exo2](https://github.com/Nathaniael/salesforcep1/blob/main/exo2.png)
+[Résultat attendu](https://github.com/Nathaniael/salesforcep1/blob/main/exo2.png)
 
 3. Rajouter un champ Statut à la fois sur Compte et sur Contact qui a 2 valeurs possibles : Prospect et Client. Prospect doit être la valeur par défaut. En vous rendant dans une de ses des catégories, vous devriez voir en consultant ou créant un contact, en cliquant sur le champ "Statut", qu'il y aura un menu déroulant vous permettant de choisir entre l'option "Prospect" ou encore "Client".
-[exo3](https://github.com/Nathaniael/salesforcep1/blob/main/exo3.png)
+[Résultat attendu](https://github.com/Nathaniael/salesforcep1/blob/main/exo3.png)
 
 4. Faire en sorte que lorsqu'une Opportunité est gagnée ("Closed Won"), le Compte et le Contact passe de Prospect à Client.
 (générateur de processus).
@@ -45,3 +45,5 @@ En vous rendant dans la catégorie "Opportunités", et en appuyant sur "Nouveau"
 (voir générateur de processus)
 
 6. Faire en sorte que lorsqu'un Compte passe de Prospect à Client, le Contact rattaché passent également à Client.
+
+7. Faire en sorte que lorsque l'on reçoit un nouveau lead, un mail soit envoyé au propriétaire du lead.
