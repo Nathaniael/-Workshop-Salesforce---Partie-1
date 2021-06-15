@@ -46,4 +46,6 @@ En vous rendant dans la catégorie "Opportunités", et en appuyant sur "Nouveau"
 
 6. Faire en sorte que lorsqu'un Compte passe de Prospect à Client, le Contact rattaché passent également à Client.
 
-7. Faire en sorte que lorsque l'on reçoit un nouveau lead, un mail soit envoyé au propriétaire du lead.
+7. Ajoutez un nouveau champ "Descrption du projet" dans l'objet "Piste" (lead en anglais). Celui-ci permettra de savoir pourquoi un lead nous contacte, et permet d'anticiper des interractions avec celui-ci.
+
+8. Faire en sorte que lorsque l'on reçoit une nouvelle Piste (lead en anglais), un mail soit envoyé au propriétaire de celui-ci. Le mail devra contenir le nom de celui-ci avec son projet.
